@@ -1,0 +1,6 @@
+# python/django
+__pycache__/
+db.sqlite3
+
+# own
+admin.txt
